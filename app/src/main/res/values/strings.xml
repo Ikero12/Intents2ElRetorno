@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intents2ElRetorno</string>
+    <string name="camara">Take a photo!</string>
+    <string name="calculator">Magicator</string>
+</resources>
